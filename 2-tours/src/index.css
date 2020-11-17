@@ -205,7 +205,9 @@ main {
   font-size: 1rem;
   cursor: pointer;
   padding-left: 0.25rem;
+  outline: none;
 }
+
 .tour-price {
   color: var(--clr-primary-5);
   background: var(--clr-primary-10);
