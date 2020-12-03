@@ -2,7 +2,7 @@
 
 ### Get tints and shades of a CSS color
 
-[Link to live project!](https://mwomack-react-5-menu.netlify.app/)
+[Link to live project!](https://mwomack-react-9-colors.netlify.app/)
 
 ### This is a React component utilizing:
 
